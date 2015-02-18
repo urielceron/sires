@@ -1,9 +1,8 @@
 urielceron.github.io
 ====================
 
-## HOla!
-
-Este es mi primer archivo en github!
+Mi pagina principal es:
+http://urielceron.github.io/
 
 Mi pagina de usuario Github es: 
 https://github.com/uriel.ceron/
@@ -11,6 +10,4 @@ https://github.com/uriel.ceron/
 Mi Pagina Github Repo es:  
 https://github.com/uriel.ceron/sires
 
-Y pronto podras ver mi pagina inicial:
 
-http://urielceron.github.io/
